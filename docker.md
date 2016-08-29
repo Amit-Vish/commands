@@ -18,4 +18,6 @@
 
 > Check the open network "netstat -a | grep ':http'"
 
-> Killing the port sudo kill $(sudo lsof -t -i:portname)
+> Killing the port "sudo kill $(sudo lsof -t -i:portname)"
+
+> List all listening ports  "sudo netstat -lnp"
