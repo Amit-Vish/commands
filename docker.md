@@ -17,3 +17,5 @@
 > Kill the process "sudo killall processname"
 
 > Check the open network "netstat -a | grep ':http'"
+
+> Killing the port sudo kill $(sudo lsof -t -i:<portname>)
