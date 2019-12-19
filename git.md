@@ -60,5 +60,10 @@
 
 > Apply changes of your stash `git stash apply or git stash pop`
 
+> Reset your added changes `git reset`
+
+> Revert your all changes `git reset --hard`
+
+> Go to your privious commit `git reset HEAD~ or git reset HEAD~<commit number>`
 
 > Add a remote repository `git remote add origin <https or ssh url>`
