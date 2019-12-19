@@ -66,4 +66,8 @@
 
 > Go to your privious commit `git reset HEAD~ or git reset HEAD~<commit number>`
 
+> Preview all changes `git diff`
+
+> Preview changes for different branch `git diff <source branch> <target branch>`
+
 > Add a remote repository `git remote add origin <https or ssh url>`
