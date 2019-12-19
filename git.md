@@ -1,5 +1,11 @@
 # git commands
 
+> Set your details to config (global)
+`
+git config –global user.name "[name]"
+git config –global user.email "[email address]"
+`
+
 > Initialize a Git repository `git init`
 
 > Create a local copy of a remote repository `git clone <https or ssh url>`
